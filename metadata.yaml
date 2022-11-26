@@ -4,7 +4,7 @@ composer:
 title: Komm heiliger Geiſt
 id: AWV 9.03
 genre: sacred song
-scoring: S, A, T, B (coro), 2 vl, b, org
+scoring: S, A (solo), S, A, T, B (coro), 2 vl, b, org
 license: cc-by-nc-sa-4.0
 sources:
   B1:
@@ -15,4 +15,4 @@ sources:
     url: https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00128622-1
     license: CC-BY-NC-SA-4.0
     principal: true
-imslp:
+imslp: Komm_heiliger_Geist,_CatAd_9.03_(Adlgasser,_Anton_Cajetan)
