@@ -1,0 +1,18 @@
+composer:
+  last: Adlgasser
+  first: Anton Cajetan
+title: Komm heiliger Geiſt
+id: AWV 9.03
+genre: sacred song
+scoring: S, A, T, B (coro), 2 vl, b, org
+license: cc-by-nc-sa-4.0
+sources:
+  B1:
+    siglum: D-Mbs
+    shelfmark: Mus.ms. 280-2
+    date: 1770
+    rism: 456008206
+    url: https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00128622-1
+    license: CC-BY-NC-SA-4.0
+    principal: true
+imslp:
